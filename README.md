@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello World 😉
+Welcome to my Github profile! 
 
-<!--
-**anuchii/anuchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🫀A little bit about me
+I started my journey in the IT world with an intensive Java course [Wifi Wien].
+Through this experience, my interest in informatics grew steadily, and I decided to follow that path by enrolling in an informatics degree.
+I enjoy learning how things work under the hood and applying theory in practice.
 
-Here are some ideas to get you started:
+## 👩🏻‍💻Tech Stack 
+- Java
+- SQL
+- HTML
+- CSS
+- PHP
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙇🏻‍♀️Current Focus 
+- Cybersecurity fundamentals
+- imporving problem-solving skills in C and C++
+
+## 👀Public repositories Overview
+- University project : KostenKlar
+- Final certification project from the Java course: Medat_Trainer_Neu
