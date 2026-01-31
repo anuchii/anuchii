@@ -18,6 +18,6 @@ I enjoy learning how things work under the hood and applying theory in practice.
 - Cybersecurity fundamentals
 - imporving problem-solving skills in C and C++
 
-## 👀Public repositories Overview
+## 👀 Public repositories Overview
 - University project : KostenKlar
 - Final certification project from the Java course: Medat_Trainer_Neu
