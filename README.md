@@ -11,7 +11,7 @@ I enjoy learning how things work under the hood and applying theory in practice.
 
 ## 🙇🏻‍♀️Current Focus 
 - Cybersecurity fundamentals
-- imporving problem-solving skills in C and C++
+- improving problem-solving skills in C and C++
 
 ## 👀 Public repositories Overview
 - University project : KostenKlar
