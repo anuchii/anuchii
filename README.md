@@ -1,4 +1,4 @@
-## Hello World 😉
+## 改善 (kaizen)
 Welcome to my Github profile! 
 
 ## 🫀A little bit about me
