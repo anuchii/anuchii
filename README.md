@@ -1,4 +1,4 @@
-# ## 改善 (kaizen)
+# 改善 (kaizen)
 > "Step by step, commit by commit."
 
 
